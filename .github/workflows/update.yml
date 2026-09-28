@@ -1,0 +1,43 @@
+name: refresh-and-build
+
+on:
+  schedule:
+    - cron: '0 2 1 * *'      # 每月 1 号 02:00 UTC 自动刷新评分/海报
+  push:
+    paths:
+      - 'build.py'
+      - 'template.html'
+      - 'scripts/**'
+      - 'data/logos.json'
+      - 'data/banners.json'
+  workflow_dispatch: {}        # 允许手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 刷新 OMDb 评分/海报 + 构建页面
+        env:
+          OMDB_KEY: ${{ secrets.OMDB_KEY }}
+          OMDB_REFRESH: '1'
+        run: |
+          if [ -n "$OMDB_KEY" ]; then python scripts/enrich.py || true; fi
+          python build.py
+      - name: 提交并部署
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --quiet --cached || git commit -m "chore: auto refresh & rebuild [skip ci]"
+          git push
