@@ -1,0 +1,542 @@
+{
+ "mcu-iron-man": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.9",
+  "rt": "94%",
+  "metacritic": "79"
+ },
+ "mcu-incredible-hulk": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "6.6",
+  "rt": "68%",
+  "metacritic": "61"
+ },
+ "mcu-iron-man-2": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWYyOGQzOGYtMGQ1My00ZWYxLTgzZjktZWYzN2IwYjkxYzM0XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+  "imdb": "6.9",
+  "rt": "72%",
+  "metacritic": "57"
+ },
+ "mcu-thor": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjRhNGZjZjEtYTQzYS00OWUxLThjNGEtMTIwMTE2ZDFlZTZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.0",
+  "rt": "77%",
+  "metacritic": "57"
+ },
+ "mcu-cap-first-avenger": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzUyM2YyY2MtNzNlMS00MWU5LTgxNjAtNzZlNmI2NjU2NDZlXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+  "imdb": "6.9",
+  "rt": "80%",
+  "metacritic": "66"
+ },
+ "mcu-avengers": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "8.0",
+  "rt": "91%",
+  "metacritic": "69"
+ },
+ "mcu-iron-man-3": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.1",
+  "rt": "79%",
+  "metacritic": "62"
+ },
+ "mcu-thor-dark-world": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+  "imdb": "6.7",
+  "rt": "67%",
+  "metacritic": "54"
+ },
+ "mcu-cap-winter-soldier": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWY1NjFmNDItZDhmOC00NjI1LWE0ZDItMTM0MjBjZThiOTQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.7",
+  "rt": "90%",
+  "metacritic": "70"
+ },
+ "mcu-gotg": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZmNjQ2MzAtNDlhNi00MmQyLWJhZDMtNmJiMjFlOWY4MzcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "8.0",
+  "rt": "91%",
+  "metacritic": "76"
+ },
+ "mcu-avengers-ultron": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BODBhYTg1NGQtNGVmNS00ZTdiLThjYTYtZDFkNzRiNTZmNDZjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.3",
+  "rt": "75%",
+  "metacritic": "66"
+ },
+ "mcu-ant-man": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+  "imdb": "7.2",
+  "rt": "83%",
+  "metacritic": "64"
+ },
+ "mcu-cap-civil-war": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.8",
+  "rt": "90%",
+  "metacritic": "75"
+ },
+ "mcu-doctor-strange": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.5",
+  "rt": "89%",
+  "metacritic": "72"
+ },
+ "mcu-gotg-2": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWE5MGI3MDctMmU5Ni00YzI2LWEzMTQtZGIyZDA5MzQzNDBhXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+  "imdb": "7.6",
+  "rt": "85%",
+  "metacritic": "67"
+ },
+ "mcu-spiderman-homecoming": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.4",
+  "rt": "92%",
+  "metacritic": "73"
+ },
+ "mcu-thor-ragnarok": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.9",
+  "rt": "93%",
+  "metacritic": "74"
+ },
+ "mcu-black-panther": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.3",
+  "rt": "96%",
+  "metacritic": "88"
+ },
+ "mcu-infinity-war": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "8.4",
+  "rt": "85%",
+  "metacritic": "68"
+ },
+ "mcu-ant-man-wasp": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BODVkY2ZmZTAtYzFhMi00YzZlLWE2YWMtMDBiYjY2OTU4ZWM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.0",
+  "rt": "87%",
+  "metacritic": "70"
+ },
+ "mcu-captain-marvel": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDI1NGU2ODAtNzBiNy00MWY5LWIyMGEtZjUxZjUwZmZiNjBlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "6.7",
+  "rt": "79%",
+  "metacritic": "64"
+ },
+ "mcu-endgame": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWEyNDM2ZmQtMmFkNi00MTQ1LTk1MjItMzdlZGJlYmIyYzZlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "8.4",
+  "rt": "94%",
+  "metacritic": "78"
+ },
+ "mcu-spiderman-ffh": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+  "imdb": "7.3",
+  "rt": "91%",
+  "metacritic": "69"
+ },
+ "mcu-black-widow": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTMyZTA0ZTItYjY3Yi00ODNjLWExYTgtYzgxZTk0NTg0Y2FlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "6.6",
+  "rt": "79%",
+  "metacritic": "68"
+ },
+ "mcu-shang-chi": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmY5MDcyNzAtYzg3MC00MGNlLTg3OGItNmRjYThkZGVlNzAyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.3",
+  "rt": "92%",
+  "metacritic": "71"
+ },
+ "mcu-eternals": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTBiZjI2M2UtZTNiNy00NmU4LWJiMjYtZjk4MDIzMzhlMjFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "6.2",
+  "rt": "48%",
+  "metacritic": "52"
+ },
+ "mcu-spiderman-nwh": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "imdb": "8.1",
+  "rt": "93%",
+  "metacritic": "71"
+ },
+ "mcu-doctor-strange-2": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2YxZGRjMzYtZjE1ZC00MDI0LThjZmQtZTZmMzVmMmQ2NzBmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "6.9",
+  "rt": "73%",
+  "metacritic": "60"
+ },
+ "mcu-thor-love-thunder": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "6.1",
+  "rt": "64%",
+  "metacritic": "57"
+ },
+ "mcu-black-panther-2": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWY5NDY1ZjItZDQxMy00MTAzLTgyOGQtNTQxYjFiMzZjMjUyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "6.6",
+  "rt": "84%",
+  "metacritic": "67"
+ },
+ "mcu-quantumania": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMThkYWY5ZjQtYjJlMS00MDFmLWFkYzEtODEzZjg5YWFmMGY4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "6.0",
+  "rt": "46%",
+  "metacritic": "48"
+ },
+ "mcu-gotg-3": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTJhOTMxMmItZmE0Ny00MDc3LWEzOGEtOGFkMzY4MWYyZDQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.9",
+  "rt": "82%",
+  "metacritic": "64"
+ },
+ "mcu-the-marvels": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzczOWM4MzItMWMyOS00ZDczLWIxMzctNzBmYTgzOTI1MzI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "5.5",
+  "rt": "63%",
+  "metacritic": "50"
+ },
+ "mcu-deadpool-wolverine": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.5",
+  "rt": "77%",
+  "metacritic": "56"
+ },
+ "mcu-cap-brave-new-world": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "imdb": "5.6",
+  "rt": "46%",
+  "metacritic": "42"
+ },
+ "mcu-thunderbolts": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDIzNGUwZmYtODM0Yy00NjA3LTgxOGUtOTY0ZGM5MjBkM2I3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.1",
+  "rt": "88%",
+  "metacritic": "68"
+ },
+ "mcu-fantastic-four": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "6.8",
+  "rt": null,
+  "metacritic": "65"
+ },
+ "mcu-spiderman-bnd": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "8.1",
+  "rt": "89%",
+  "metacritic": "66"
+ },
+ "mcu-avengers-doomsday": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTdlMDgxNjAtNjkxOC00ZDYxLTg3MDEtZmIwZjIxOGMwYjVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": null,
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-avengers-secret-wars": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQyZTQ5MWQtN2M4NC00YWQwLTg3ZTctM2JiZDE4NDBkZDJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": null,
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-wandavision": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTMxMmM1ODItMTZiMS00NjI1LWEwODctMjQ4ZjY4ODliNDI0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "imdb": "7.9",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-tfatws": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmJkOGNlNmEtMmQyOS00YjZiLTgxM2EtNmEzNzUzNTU5ODYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "7.1",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-loki-s1": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzA2YjM2ZWQtYTZhMS00OTI3LTlhYzQtZjBiZWZkMDdlNjA5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "8.2",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-what-if-s1": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWFiOTcwNzItMTg5Mi00ZTU4LThkZWYtYWNmZWQ1ODE5ZTVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.3",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-hawkeye": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGU5ZDBlOTAtOTZmYS00MWE0LTg0NzktNDcxZGJhN2FhZmM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "7.4",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-moon-knight": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDAzNmYwZjgtNDc3YS00ZDMyLTk0MjktMTg4MGNmNGU3MjlhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.3",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-ms-marvel": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzlkNjBmOWUtOTgzZS00OWIzLThkNWEtZTg5MGY2ODAyYzZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "6.2",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-she-hulk": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjg4ZTQ1MjctNzEyMS00YWM2LTk1ZTQtNDU3ZDJjNjhhMDhkXkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "5.2",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-werewolf-night": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BODUzMGFkYzgtYzhjNC00ZmFjLTg3ZTYtYWJkMWRjMzJmYTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "7.1",
+  "rt": "90%",
+  "metacritic": null
+ },
+ "mcu-gotg-holiday": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDA3MzdlYTQtMTUxNi00ZjJmLTkyOTYtNDkzYmIzYTJkZjMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "6.9",
+  "rt": "95%",
+  "metacritic": null
+ },
+ "mcu-secret-invasion": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmYzYzA2NzMtOTVmMC00ZDY4LThlMDctZmUyN2NlMjQ2ODViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "5.8",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-echo": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmJiY2IzZGItMzA4Ni00OWVkLWJjZGUtZDYzNDllNjY4OGEwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg",
+  "imdb": null,
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-agatha": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "7.2",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-your-friendly-spiderman": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjdiYjdmNGQtZTgzZC00MzgzLThkODctYzM4ZjRjOWJmNWFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "7.5",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-daredevil-born-again": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDBkMWRhMzEtM2M0Ny00OGZhLThkZGMtMTY1NWUwZWNhODdiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "8.1",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-ironheart": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2EzMGZhOTktYjVhZi00NmIwLWIxZDEtNWUxZTQyNjhkYWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "4.5",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-agents-shield": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkwODYyMjgzOV5BMl5BanBnXkFtZTgwODAzMTE5MjE@._V1_SX300.jpg",
+  "imdb": "7.5",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-agent-carter": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzk0MzkxODMwOV5BMl5BanBnXkFtZTgwMjQzODE4NzE@._V1_SX300.jpg",
+  "imdb": "7.8",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-daredevil-netflix": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_SX300.jpg",
+  "imdb": "8.6",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-jessica-jones": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDhhY2VlMWItMjM3Yi00MDc1LTlmYjctNjMzNDIxZjc5NGEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "7.8",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-luke-cage": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzc1MjI5MF5BMl5BanBnXkFtZTgwMzE4ODY2OTE@._V1_SX300.jpg",
+  "imdb": "7.2",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-iron-fist": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI5Mjg1NDcyOV5BMl5BanBnXkFtZTgwMjAxOTQ5MTI@._V1_SX300.jpg",
+  "imdb": "6.4",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-defenders": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwMjA5NTg4MF5BMl5BanBnXkFtZTgwODUyODkwMzI@._V1_SX300.jpg",
+  "imdb": "7.2",
+  "rt": null,
+  "metacritic": null
+ },
+ "mcu-punisher": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTI2NDllMjgtOWEyYi00Y2YxLThhYjQtNTQ0NTgwNDE1YmYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "8.4",
+  "rt": null,
+  "metacritic": null
+ },
+ "dc-man-of-steel": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+  "imdb": "7.1",
+  "rt": "57%",
+  "metacritic": "55"
+ },
+ "dc-bvs": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "6.4",
+  "rt": "28%",
+  "metacritic": "44"
+ },
+ "dc-suicide-squad": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "5.9",
+  "rt": "26%",
+  "metacritic": "40"
+ },
+ "dc-wonder-woman": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzYmZkNjktODBmYi00NzNkLWIzMjItMjhkMWZiZTZlN2MwXkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "7.3",
+  "rt": "93%",
+  "metacritic": "76"
+ },
+ "dc-justice-league": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM5YmQxM2YtZjI2Yy00YjhhLTg5N2MtMTEyMzdlZDU3OTVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "6.0",
+  "rt": "39%",
+  "metacritic": "45"
+ },
+ "dc-zsjl": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDA0MzM5YTctZTU2My00NGQ5LWE2NTEtNDM0MjZmMDBkOTZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.9",
+  "rt": "71%",
+  "metacritic": "54"
+ },
+ "dc-aquaman": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "6.8",
+  "rt": "66%",
+  "metacritic": "55"
+ },
+ "dc-shazam": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWM1YjdmOGQtNGYyMC00NjMwLTk1OWUtMGYzM2NjYjliYzYyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.0",
+  "rt": "90%",
+  "metacritic": "71"
+ },
+ "dc-birds-of-prey": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTgwNWEwOWMtNGIxMy00YzU5LTk2MzgtMjAzMmM1MjZiY2RiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+  "imdb": "6.1",
+  "rt": "79%",
+  "metacritic": "60"
+ },
+ "dc-ww-1984": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTdkYjI0M2ItMmUxZi00YjU1LTgwM2ItODgxNDY0ODZhZDQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "5.3",
+  "rt": "57%",
+  "metacritic": "60"
+ },
+ "dc-suicide-squad-2021": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWU3Y2NlZmEtMjJjNS00ZWMxLWE1MzctYWYyMjMzMDdkNTE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.2",
+  "rt": null,
+  "metacritic": "72"
+ },
+ "dc-black-adam": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmM3OTM4NDktMmI2NS00OWU0LTg4OTQtNjZhMmFkYjhmOGY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "6.1",
+  "rt": "39%",
+  "metacritic": "41"
+ },
+ "dc-shazam-2": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjdlYzAwYTMtMWJlOC00OTQ5LWJhMmYtMDhjNGY4M2RhMGU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "5.9",
+  "rt": "49%",
+  "metacritic": "47"
+ },
+ "dc-the-flash": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmE2NzBjNGUtNTJiMy00N2UxLWEyYzMtYzFjODFhMGZlOTgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "6.6",
+  "rt": "63%",
+  "metacritic": "55"
+ },
+ "dc-blue-beetle": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTEyYzQzOTMtMWExNi00OWNjLTgwMDUtNzY0YjhmZDBiMTk2XkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "5.9",
+  "rt": "78%",
+  "metacritic": "61"
+ },
+ "dc-aquaman-2": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQ1ZTUzMWMtY2VkNS00ZDRjLWEwODYtYmFkMWJiNTQxMDUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "5.6",
+  "rt": "33%",
+  "metacritic": "42"
+ },
+ "dcu-creature-commandos": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BODVmMmM0MzUtODlhMC00Y2QwLWI0MTktZmNmY2JjYjM0OTI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "imdb": "7.8",
+  "rt": null,
+  "metacritic": null
+ },
+ "dcu-superman": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+  "imdb": "7.0",
+  "rt": "83%",
+  "metacritic": "68"
+ },
+ "dcu-supergirl": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "5.8",
+  "rt": "53%",
+  "metacritic": "50"
+ },
+ "dcu-lanterns": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZjZDNlNDgtMjJlMy00NGRjLThlMGEtM2U4N2E4MDUwNjNmXkEyXkFqcGc@._V1_QL75_UY562_CR28,0,380,562_.jpg",
+  "imdb": "8.4",
+  "rt": null,
+  "metacritic": null
+ },
+ "dcu-clayface": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTAyMjgxZjctMjRjNC00Zjg1LWJiNzctMDkxYzk0NWVmODMwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+  "imdb": null,
+  "rt": null,
+  "metacritic": null
+ },
+ "dc-joker": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "8.3",
+  "rt": "68%",
+  "metacritic": "59"
+ },
+ "dc-joker-2": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "5.2",
+  "rt": "31%",
+  "metacritic": "45"
+ },
+ "dc-the-batman": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "7.8",
+  "rt": "85%",
+  "metacritic": "72"
+ },
+ "mcu-loki-s2": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzA2YjM2ZWQtYTZhMS00OTI3LTlhYzQtZjBiZWZkMDdlNjA5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "8.2",
+  "rt": null,
+  "metacritic": null
+ },
+ "dcu-peacemaker-s2": {
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDIyMGU2NTktOTM3YS00OTRjLWJiMmItNDEyNjVhZTZiZGUxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "imdb": "8.2",
+  "rt": null,
+  "metacritic": null
+ }
+}
